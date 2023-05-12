@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=B1GSt4R&&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=B1GSt4R&&color=#00b300)
 ### Hi there 👋
 <!--
 **B1GSt4R/B1GSt4R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
