@@ -5,6 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=B1GSt4R&color=00b300" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/B1GSt4R">
+    <img src="https://img.shields.io/badge/GitHub-B1GSt4R-181717?logo=github&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/B1GSt4R">
+    <img src="https://img.shields.io/badge/GitLab-B1GSt4R-FC6D26?logo=gitlab&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
